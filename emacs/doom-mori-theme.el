@@ -215,10 +215,12 @@ Can be an integer to determine the exact padding."
    (rainbow-delimiters-depth-3-face :foreground red)
    (rainbow-delimiters-depth-4-face :foreground green)
 
+   ((markdown-url-face &override) :foreground green)
+
    )
 
 
-  ;;;; Base theme variable overrides-
+  ;;;; base theme variable overrides-
   ())
 
 ;;; doom-mori-theme.el ends here
