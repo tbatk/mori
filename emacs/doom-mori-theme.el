@@ -215,8 +215,19 @@ Can be an integer to determine the exact padding."
    (rainbow-delimiters-depth-3-face :foreground red)
    (rainbow-delimiters-depth-4-face :foreground green)
 
+   ;; Markdown
    ((markdown-url-face &override) :foreground green)
 
+   ;; Magit
+   ;; ((magit-filename &override) :foreground green)
+   ;; (magit-section-heading             :foreground cyan :weight 'bold)
+   ;; (magit-branch-current              :underline green :inherit 'magit-branch-local)
+   ;; (magit-diff-hunk-heading           :background base3 :foreground fg-alt)
+   ;; (magit-diff-hunk-heading-highlight :background bg-alt :foreground fg)
+   ;; (magit-diff-context                :foreground base3 :foreground fg-alt)
+   ;; (magit-diff-modified :foreground green)
+   ((git-commit-comment-file &override) :foreground green)
+   ((git-commit-comment-branch-local &override) :foreground blue)
    )
 
 
