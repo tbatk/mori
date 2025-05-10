@@ -1,4 +1,4 @@
-;; doom-mori-theme.el --- gruvbox-inspired forest theme -*- lexical-binding: t; no-byte-compile:  t; -*-
+;; doom-mori-theme.el --- A gruvbox-inspired forest theme -*- lexical-binding: t; no-byte-compile:  t; -*-
 
 ;;
 ;;; Commentary:
@@ -203,7 +203,7 @@ Can be an integer to determine the exact padding."
    ((org-quote &override) :inherit 'italic :foreground base7 :background org-quote)
    (org-table :foreground cyan)
    (org-tag :foreground (doom-darken comments 0.15) :weight 'normal)
-   (org-todo :foreground green :bold 'inherit)
+   (org-todo :foreground blue :bold 'inherit)
    (org-verbatim :foreground yellow)
    ((org-block &override) :background base2)
    ((org-block-background &override) :background base2)

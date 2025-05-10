@@ -826,26 +826,26 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.4117647111415863</real>
+		<real>0.086274512112140656</real>
 		<key>Color Space</key>
 		<string>P3</string>
 		<key>Green Component</key>
-		<real>0.80000001192092896</real>
+		<real>0.11764705926179886</real>
 		<key>Red Component</key>
-		<real>0.59215688705444336</real>
+		<real>0.098039217293262482</real>
 	</dict>
 	<key>Cursor Text Color (Dark)</key>
 	<dict>
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.41176470588235292</real>
+		<real>0.086274509803921567</real>
 		<key>Color Space</key>
 		<string>P3</string>
 		<key>Green Component</key>
-		<real>0.80000000000000004</real>
+		<real>0.11764705882352941</real>
 		<key>Red Component</key>
-		<real>0.59215686274509804</real>
+		<real>0.098039215686274508</real>
 	</dict>
 	<key>Cursor Text Color (Light)</key>
 	<dict>
